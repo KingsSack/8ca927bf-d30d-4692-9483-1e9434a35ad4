@@ -4,4 +4,6 @@ Learn more about me!
 
 ### Who am I?
 
-My name is KingsSack. That's all you get to know.
+My name is KingsSack.
+
+I like to use Vim and GitButler.
